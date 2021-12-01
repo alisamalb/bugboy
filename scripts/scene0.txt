@@ -1,0 +1,31 @@
+
+	-phone rings
+	-pick up tone
+J. “...’d you have any idea what time it is? ...uh? A meeting? “
+J. “Yes! Yes, I would love to talk to investors about my script!”
+J. “Is this for Ghriz? Ghriz?”
+J. “Oh, I bet it’s The Lady and The Microwave!”
+J. “Uh? What’s a Bagboy?”
+J. “OH NO! I mean... YES! I did write that!”
+Phone. “...”
+J. “Sorry, I meant... I put a lot of work in Bugboy, and...”
+Na. “She did not put much work in Bugboy.”
+J. “...and it’s kind of my dream project.”
+Na. “Bugboy was no one’s dream project.”
+J. “Sure, I have everything ready. I mean, it’s Bugboy!”
+J. “So, about this meeting... Tomorrow morning?! That’s...”
+J. “That’s perfect! 7 A.M.? That’s... better, actually! I love mornings!”
+Na. “You can probably guess that one.”
+J. “Nature Calls Pictures, isn’t’ it? And for the address...”
+J. “Got it! Tomorrow can’t come too soon, ha ha!”
+-phone hang up
+J. “So, that’s a problem... but nothing a good night of work can’t fix!
+J. “All the best ideas come at night!”
+J. “It’s all written in my head already, I just have to put it on paper!”
+J. “I’m sure it’ll take only a minutes. Besides, I’m not even that tired!”
+J. “And it’s not as if I’m already in bed... and I just woke up...”
+J. “I wish I didn’t wake up, I’m kinda sleepy...”
+Na. “She did not write a single line, that night, before falling asleep.”
+Na. “After all, humans are but (animals), and night is for sleep.”
+Na. “But fret not, Jenna, for your Bugboy will be right at your side!”
+Na. “Metaphorically!”

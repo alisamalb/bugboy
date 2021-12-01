@@ -1,0 +1,64 @@
+
+J. “Bugboy... he’s a bug, but also a boy...”
+J. “He has to save the planet from... the enemies...”
+J. “Which are also bugs!”
+Ev. “......”
+Jt. “Come on, Jenna, say something! Anything!”
+Jt. “Look around and describe things, if you have to!”
+Jt. “Let’s see... there’s a desk, a water tank... maybe Bugboy can swim?”
+Jt. “No, he’s a bug... they can’t swim. What else is here?”
+Jt. “That window... there’s such a good view from up here.”
+J. “I can’t do this... I wish I could fly out of here!”
+J. “...did I say that out lout? I didn’t mean to... you know, that’s...”
+J. “Wait, that’s right!”
+J. “That’s what Bugboy said! Back when he was a regular boy!”
+Jt. “I can’t stop now, I have to keep going! For Bugboy!”
+J. “Ok, picture this: blue skies and milky clouds zooming by...”
+J. “...while a cliff peeks from below, seawaves pounding at its feet.”
+J. “Suddenly Bugboy, in all it’s many-legged glory, takes to the sky!”
+“[Starts idle animation, if we have one]”
+Jt. “I can almost see him flying in all directions!”
+Jt. “All four, I mean. Poor boy can only move up, down, left and right.”
+“[can’t progress until player has moved in all four directions. Underlined text is highlighted in some way]”
+J. “He’s soaring trough the skies at an incredible speed, what a sight!”
+J. “And I’m riding him!”
+J. “(thinking) I can’t say that out loud, but you can’t stop me from dreaming!”
+Mr. “Did you just say you’re riding Bugboy?”
+J. “What? No!”
+J. “(thinking) Oh geez, it happened again!”
+J. “I said, ‘I’m writing it.’ As in, ‘I’m writing this down!’“
+Ms. “Right...”
+N. “Shouldn’t you have wrote this down already?”
+Mr. “Hey, you’re right! This is your movie, isn’t it?”
+Mr. “You should at least have some notes ready!”
+J. “Oh, that... It’s just a figure of speech.”
+J. “Like it’s sooo gooood that I’m writing it down. Metaphorically”
+Ms. “Never heard anyone say that.”
+J. “Well, you heard it now. You’re welcome.”
+J. “Why do you even care if I talk a bit weird?”
+Ms. “You’re a writer applying for a job. What do you think?”
+N. “Everyone, please calm down!”
+J and Ms. “...”
+N. “Jenna, you can take a moment and continue when you’re ready.”
+J. “Thank you. And I’m sorry, I didn’t mean to come off like that.”
+J. “...”
+J. “As I said, Bugboy has some enemies waiting for him!”
+J. “They... are also bugs?”
+J. “...”
+J. “They come in a bunch of colours and shapes.”
+J. “...”
+J. “They have all have guns, while Bugboy...”
+“[Avoid the bullets]”
+Jt. “Sure, Jenna. Giving the bugs a gun, why wouldn’t you?”
+J. “Bugboy has a stinger, and he dashes trough the bullets to attack!”
+Jt. “Really? A charge attack? ‘Press the B button, Bugboy!’ I hate this.
+“[‘Press the B button, Bugboy!’]”
+Jt. “It’s happening again. I don’t know what to say...”
+J. “Sometimes...”
+Jt. “Just talk! Never stop talking!”
+Jt. “If you stop talking they’ll realize how stupid this is!”
+J. “Sometimes Bugboy gets stuck, when he doesn’t know what to say.”
+J. “And when that happens, he looks...”
+J. “He looks at the shape of the clouds for inspiration.”
+J. “When things get though he charges trough them to keep himself going!”
+J. “Now, that’s what I call...”
